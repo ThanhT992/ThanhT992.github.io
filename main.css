@@ -1,0 +1,25 @@
+html {
+    background:rgb(205, 218, 204);
+}
+:root {
+    --text-color: rgb(7, 255, 7);
+}
+
+.box:hover {
+    background-color:crimson;
+}
+.box:active {
+    background-color:rgb(28, 202, 57);
+}
+
+h2 {
+    color:rgb(59, 85, 231);
+    font-size:30px;
+}
+#HaiYeuTo {
+    color:rgb(33, 177, 33);
+}
+
+.BaDieuThuHut {
+    color: var(--text-color);
+}
